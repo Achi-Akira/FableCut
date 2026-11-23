@@ -1,4 +1,5 @@
 ---
+name: edit-video
 description: Edit video with FableCut — assemble a cut, add titles and captions, grade, add transitions, keyframe animation, speed ramps, and export. Use whenever the user wants to cut, trim, caption, subtitle, grade, or otherwise edit a video, or asks to open/start the video editor.
 ---
 

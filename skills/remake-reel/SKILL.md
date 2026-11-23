@@ -1,4 +1,5 @@
 ---
+name: remake-reel
 description: Analyze a reference video (a reel, montage, or ad the user likes) into an edit blueprint — shot boundaries, music beats, BPM, energy curve, the drop — and rebuild the same structure with the user's own footage. Use when someone says "make it like this video", "remake this reel with my clips", or asks what makes an edit tick.
 ---
 
